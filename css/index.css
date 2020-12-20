@@ -113,7 +113,7 @@ body{
     color: rgb(0, 0, 0);
     text-align: center;
     font-size: 5vw;
-    font-family: serif;
+    font-family: cursive;
     white-space: nowrap;
     animation: upSlide 0.5s 0.1s linear;
     -webkit-animation: upSlide 0.5s 0.1s linear;
@@ -397,6 +397,6 @@ footer{
 }
 #credit{
     font-size: 90%;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: fantasy;
     color: brown;
 }
