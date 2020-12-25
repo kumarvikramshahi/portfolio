@@ -42,8 +42,6 @@ window.onscroll = function () {
         document.getElementsByClassName("mailBtn")[0].style.animation = leftSlideAnimation;
         document.getElementsByClassName("mailBtn")[1].style.animation = rightSlideAnimation;
     }
-    console.log(contact.children)
-    console.log(document.documentElement.scrollTop)
 };
 window.onload = function () {
     let intro_text = document.getElementsByClassName("centre_positioning")[0];
