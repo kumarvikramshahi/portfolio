@@ -112,12 +112,8 @@ html {
     color: rgb(0, 0, 0);
     margin: auto 2%;
 }
-<<<<<<< HEAD
 
 .Resume {
-=======
-.Resume{
->>>>>>> e5522b211f0d46614b2d276ea55cd86c4a64de5b
     display: inline-block;
     border: 2px solid rgba(255, 192, 203, 0.5);
     border-radius: 5px;
@@ -125,12 +121,8 @@ html {
     margin-right: 5px;
     text-transform: uppercase;
 }
-<<<<<<< HEAD
 
 #night_mode {
-=======
-#night_mode{
->>>>>>> e5522b211f0d46614b2d276ea55cd86c4a64de5b
     background-color: rgba(0, 0, 0, 0);
     border: none;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.199);
