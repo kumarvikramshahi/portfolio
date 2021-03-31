@@ -42,13 +42,11 @@ window.onscroll = function () {
         document.getElementsByClassName("mailBtn")[0].style.animation = leftSlideAnimation;
         document.getElementsByClassName("mailBtn")[1].style.animation = rightSlideAnimation;
     }
-
 };
 uparrow.onclick = () => window.scrollTo(0, 0)
 
 let abc = document.getElementById("skillSection");
 if (document.location.href == "skillSection") {
-    console.log("hi")
 }
 
 window.onload = function () {
