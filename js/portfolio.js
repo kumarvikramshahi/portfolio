@@ -42,9 +42,15 @@ window.onscroll = function () {
         document.getElementsByClassName("mailBtn")[0].style.animation = leftSlideAnimation;
         document.getElementsByClassName("mailBtn")[1].style.animation = rightSlideAnimation;
     }
-    console.log(contact.children)
-    console.log(document.documentElement.scrollTop)
+
 };
+uparrow.onclick = () => window.scrollTo(0, 0)
+
+let abc = document.getElementById("skillSection");
+if (document.location.href == "skillSection") {
+    console.log("hi")
+}
+
 window.onload = function () {
     let intro_text = document.getElementsByClassName("centre_positioning")[0];
     for (let a = 0; a <= 2; a++) {
